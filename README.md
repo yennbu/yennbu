@@ -12,7 +12,8 @@ Through my academic background, I have gained analytical and cultural insights. 
 **Programming & Development:**  
 - HTML / CSS  
 - JavaScript  
-- React  
+- React
+- Next.js
 - Node.js  
 - Express  
 - AWS  
