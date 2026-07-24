@@ -1,9 +1,9 @@
 ## Hi, I'm Yenn!  
-A web developer with a background in cultural studies.  
+A software developer with a background in cultural studies.  
 
 When I began studying web development in 2024, my goal was to explore new ways of applying my knowledge from cultural studies.
 
-Through my academic background, I have gained analytical and cultural insights. I view code and design as part of a larger societal context, and I always strive to create meaningful and inclusive digital experiences.
+Through my academic background, I have gained analytical, cultural and communicational insights. I view code and design as part of a larger societal context, and I always strive to create meaningful and inclusive digital experiences.
 
 ---
 
