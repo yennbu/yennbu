@@ -10,13 +10,13 @@ Through my academic background, I have gained analytical, cultural and communica
 ## Skills
 
 **Programming & Development:**  
-- HTML / CSS  
-- JavaScript  
-- React
-- Next.js
-- Node.js  
-- Express  
-- AWS  
+- React/Next.js
+- JavaScript/TypeScript
+- SQL
+- Supabase/PostgreSQL
+- HTML / CSS
+- Node.js 
+- AWS
 
 **Design & Illustration:**  
 - Procreate  
